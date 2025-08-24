@@ -17,3 +17,6 @@ Este proyecto contiene pruebas automatizadas para validar la funcionalidad de cr
 ## Cómo ejecutar las pruebas
 ```bash
 pytest create_user_test.py
+
+# API Stand Tests
+Este proyecto contiene pruebas para la API de Urban Grocers.
